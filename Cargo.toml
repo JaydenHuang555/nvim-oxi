@@ -84,6 +84,7 @@ types = { workspace = true, features = ["serde"] }
 cargo_metadata = { workspace = true, optional = true }
 mlua = { workspace = true, optional = true }
 thiserror = { workspace = true }
+log = {version = "0.4.32", features = ["std"]}
 
 [dev-dependencies]
 serde = { workspace = true, features = ["derive"] }

@@ -13,8 +13,10 @@
 
 #[doc(hidden)]
 pub mod entrypoint;
+pub mod paths;
 mod error;
 mod toplevel;
+pub mod log;
 
 pub mod api {
     //! Bindings to the [Neovim C API][api].
