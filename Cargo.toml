@@ -8,7 +8,7 @@ edition = "2024"
 authors = ["Riccardo Mazzarini <me@noib3.dev>"]
 rust-version = "1.91.0"
 documentation = "https://docs.rs/nvim-oxi"
-repository = "https://github.com/noib3/nvim-oxi"
+repository = "https://github.com/JaydenHuang555/nvim-oxi"
 license = "MIT"
 keywords = ["bindings", "neovim", "nvim"]
 
